@@ -905,7 +905,7 @@ LI.i18n.register( 'unableToProcessRequest', 'We were unable to handle your reque
 
 
   
-      <p class="copyright guest"><span>LinkedIn Corporation</span> <em>&copy; 2017</em></p>
+      <p class="copyright guest"><span>LinkedIn Corporation</span> <em>&copy; 2020</em></p>
     
 
   <ul class="nav-legal" role="navigation" aria-label="Footer Legal Menu">
